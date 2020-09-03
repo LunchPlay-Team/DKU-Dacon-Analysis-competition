@@ -1,1 +1,1 @@
-# -AI-
+# DKU-Dacon-Analysis-competition
